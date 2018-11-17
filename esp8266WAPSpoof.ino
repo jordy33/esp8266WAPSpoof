@@ -1,9 +1,3 @@
-/*
-  ===========================================
-       Copyright (c) 2018 Stefan Kremser
-              github.com/spacehuhn
-  ===========================================
-*/
 
 // ===== Settings ===== //
 const uint8_t channels[] = {1, 6, 11}; // used Wi-Fi channels (available: 1-14)
